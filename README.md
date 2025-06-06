@@ -24,7 +24,7 @@ DynamicKV began as our college DBMS project and evolved into a lightweight NoSQL
 
 - **Core**: C++, STL, `<filesystem>`, `std::thread`/`mutex`, My own hashmap library  
 - **Networking**: [Crow](https://crowcpp.org/) (header-only, Flask-style)  
-- **Build & CLI**: GNU Makefile / `g++`` / `fmt` library  
+- **Build & CLI**: GNU Makefile / `g++` / `fmt` library  
 - **Configuration**: JSON (`nlohmann::json`)  
 
 ---
